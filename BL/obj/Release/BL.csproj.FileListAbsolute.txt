@@ -1,0 +1,11 @@
+C:\RammyCube\BL\bin\Release\BL.dll
+C:\RammyCube\BL\bin\Release\BL.pdb
+C:\RammyCube\BL\obj\Release\ResolveAssemblyReference.cache
+C:\RammyCube\BL\obj\Release\BL.ccCard.resources
+C:\RammyCube\BL\obj\Release\RammyCube.Properties.Resources.resources
+C:\RammyCube\BL\obj\Release\BL.ucGame.resources
+C:\RammyCube\BL\obj\Release\BL.ucPlayerBoard.resources
+C:\RammyCube\BL\obj\Release\GenerateResource.read.1.tlog
+C:\RammyCube\BL\obj\Release\GenerateResource.write.1.tlog
+C:\RammyCube\BL\obj\Release\BL.dll
+C:\RammyCube\BL\obj\Release\BL.pdb

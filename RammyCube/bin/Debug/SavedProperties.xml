@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<properties numOfPlayers="4">
+  <names>
+    <player1 name="Moshe" kind="c" />
+    <player2 name="Dan" kind="c" />
+    <player3 name="Ran" kind="p" />
+    <player4 name="Gad" kind="p" />
+  </names>
+</properties>

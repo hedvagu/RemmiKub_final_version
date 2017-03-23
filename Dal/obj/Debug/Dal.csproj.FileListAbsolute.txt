@@ -1,0 +1,139 @@
+F:\גיבוי\RammyCube\Dal\bin\Debug\Dal.dll
+F:\גיבוי\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\גיבוי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\RammyCube\Dal\obj\Debug\Dal.dll
+F:\גיבוי\RammyCube\Dal\obj\Debug\Dal.pdb
+E:\גיבוי\RammyCube\Dal\bin\Debug\Dal.dll
+E:\גיבוי\RammyCube\Dal\bin\Debug\Dal.pdb
+E:\גיבוי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+E:\גיבוי\RammyCube\Dal\obj\Debug\Dal.dll
+E:\גיבוי\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\גיבוי\גיבוי\RammyCube\Dal\bin\Debug\Dal.dll
+F:\גיבוי\גיבוי\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\גיבוי\גיבוי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\גיבוי\RammyCube\Dal\obj\Debug\Dal.dll
+F:\גיבוי\גיבוי\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\obj\Debug\Dal.pdb
+F:\סופי סופי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\RammyCube\Dal\obj\Debug\Dal.dll
+F:\סופי סופי\RammyCube\Dal\bin\Debug\Dal.dll
+F:\סופי סופי\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\סופי סופי\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\Dal\obj\Debug\Dal.pdb
+F:\סופי סופי\RammyCube\Dal\bin\Debug\BL.dll
+F:\סופי סופי\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\bin\Debug\BL.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\Dal\obj\Debug\Dal.pdb
+F:\סופי סופי\מורה\RammyCube\Dal\bin\Debug\Dal.dll
+F:\סופי סופי\מורה\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\סופי סופי\מורה\RammyCube\Dal\bin\Debug\BL.dll
+F:\סופי סופי\מורה\RammyCube\Dal\bin\Debug\BL.pdb
+F:\סופי סופי\מורה\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\מורה\RammyCube\Dal\obj\Debug\Dal.dll
+F:\סופי סופי\מורה\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\Dal.pdb
+F:\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\Dal.dll
+F:\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\BL.dll
+F:\סופי סופי\31.5.11\RammyCube\Dal\bin\Debug\BL.pdb
+F:\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\Dal.dll
+F:\סופי סופי\31.5.11\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\obj\Debug\Dal.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\Dal\obj\Debug\Dal.pdb
+G:\RammyCube\Dal\bin\Debug\Dal.dll
+G:\RammyCube\Dal\bin\Debug\Dal.pdb
+G:\RammyCube\Dal\bin\Debug\BL.dll
+G:\RammyCube\Dal\bin\Debug\BL.pdb
+G:\RammyCube\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+G:\RammyCube\Dal\obj\Debug\Dal.dll
+G:\RammyCube\Dal\obj\Debug\Dal.pdb
+F:\RammyCube\Dal\bin\Debug\Dal.dll
+F:\RammyCube\Dal\bin\Debug\Dal.pdb
+F:\RammyCube\Dal\bin\Debug\BL.dll
+F:\RammyCube\Dal\bin\Debug\BL.pdb
+F:\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\RammyCube\Dal\obj\Debug\Dal.dll
+F:\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\RammyCube\Dal\bin\Debug\Dal.dll
+C:\RammyCube\Dal\bin\Debug\Dal.pdb
+C:\RammyCube\Dal\bin\Debug\BL.dll
+C:\RammyCube\Dal\bin\Debug\BL.pdb
+C:\RammyCube\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\RammyCube\Dal\obj\Debug\Dal.dll
+C:\RammyCube\Dal\obj\Debug\Dal.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\bin\Debug\Dal.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\bin\Debug\Dal.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\bin\Debug\BL.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\bin\Debug\BL.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\obj\Debug\Dal.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\Dal\obj\Debug\Dal.pdb
+F:\RammyCube פרויקט סופי למסירה\Dal\bin\Debug\Dal.dll
+F:\RammyCube פרויקט סופי למסירה\Dal\bin\Debug\Dal.pdb
+F:\RammyCube פרויקט סופי למסירה\Dal\bin\Debug\BL.dll
+F:\RammyCube פרויקט סופי למסירה\Dal\bin\Debug\BL.pdb
+F:\RammyCube פרויקט סופי למסירה\Dal\obj\Debug\ResolveAssemblyReference.cache
+F:\RammyCube פרויקט סופי למסירה\Dal\obj\Debug\Dal.dll
+F:\RammyCube פרויקט סופי למסירה\Dal\obj\Debug\Dal.pdb

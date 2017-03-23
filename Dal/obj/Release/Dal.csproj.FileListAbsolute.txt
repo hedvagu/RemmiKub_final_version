@@ -1,0 +1,7 @@
+C:\RammyCube\Dal\bin\Release\Dal.dll
+C:\RammyCube\Dal\bin\Release\Dal.pdb
+C:\RammyCube\Dal\bin\Release\BL.dll
+C:\RammyCube\Dal\bin\Release\BL.pdb
+C:\RammyCube\Dal\obj\Release\ResolveAssemblyReference.cache
+C:\RammyCube\Dal\obj\Release\Dal.dll
+C:\RammyCube\Dal\obj\Release\Dal.pdb

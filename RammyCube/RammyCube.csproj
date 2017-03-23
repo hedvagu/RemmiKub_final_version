@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8929F565-5959-4D4E-85D6-3AEE1CADFF03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RammyCube</RootNamespace>
+    <AssemblyName>RammyCube</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAttributes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAttributes.designer.cs">
+      <DependentUpon>FormAttributes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGame.designer.cs">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHelp.Designer.cs">
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOpen.Designer.cs">
+      <DependentUpon>FormOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRec.designer.cs">
+      <DependentUpon>FormRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSaveGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSaveGame.Designer.cs">
+      <DependentUpon>FormSaveGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWellcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWellcome.Designer.cs">
+      <DependentUpon>FormWellcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAttributes.resx">
+      <DependentUpon>FormAttributes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGame.he-IL.resx">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGame.resx">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHelp.resx">
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOpen.resx">
+      <DependentUpon>FormOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSaveGame.resx">
+      <DependentUpon>FormSaveGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWellcome.resx">
+      <DependentUpon>FormWellcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{05C9965E-3517-4DBE-B48C-6A2D5D8C523B}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dal\Dal.csproj">
+      <Project>{F519E146-FDF8-4456-90C3-7F34ED855B46}</Project>
+      <Name>Dal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainBoard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FWellcomeBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KlaliBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainBoard1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Board.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG_gif.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JBlue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JGreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JRed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JYellow.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Boo.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speech Off.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speech On.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Battery Critical.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Battery Low.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Critical Stop.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Logon Sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Print complete.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chimes.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notify.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tada.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Logoff Sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Shutdown.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FGameBG - עותק.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\היום.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\כפתור סימתי.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\כפתור.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חדש חדש.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_ground.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word1">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open_new.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sofi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KlaliBGwellcome.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

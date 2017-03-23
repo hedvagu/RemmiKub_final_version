@@ -1,0 +1,282 @@
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\רותי\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\רותי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\רותי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+F:\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+F:\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+F:\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+E:\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+E:\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+E:\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+E:\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+E:\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+E:\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+E:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+E:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+E:\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+E:\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+E:\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\tzipi\Desktop\RammyCube\BL\obj\Debug\BL.pdb
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+D:\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+D:\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+D:\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+D:\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+D:\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+D:\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+D:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+D:\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+D:\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+D:\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+F:\גיבוי\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+F:\גיבוי\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+F:\גיבוי\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\BL\obj\Debug\BL.pdb
+F:\סופי סופי\RammyCube\BL\bin\Debug\BL.dll
+F:\סופי סופי\RammyCube\BL\bin\Debug\BL.pdb
+F:\סופי סופי\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\סופי סופי\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\סופי סופי\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\סופי סופי\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\RammyCube\BL\obj\Debug\BL.dll
+F:\סופי סופי\RammyCube\BL\obj\Debug\BL.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\bin\Debug\BL.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\bin\Debug\BL.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\BL.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\BL\obj\Debug\BL.pdb
+F:\סופי סופי\מורה\RammyCube\BL\bin\Debug\BL.dll
+F:\סופי סופי\מורה\RammyCube\BL\bin\Debug\BL.pdb
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\BL.dll
+F:\סופי סופי\מורה\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.pdb
+F:\סופי סופי\31.5.11\RammyCube\BL\bin\Debug\BL.dll
+F:\סופי סופי\31.5.11\RammyCube\BL\bin\Debug\BL.pdb
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.dll
+F:\סופי סופי\31.5.11\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\BL.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\BL\obj\Debug\BL.pdb
+G:\RammyCube\BL\bin\Debug\BL.dll
+G:\RammyCube\BL\bin\Debug\BL.pdb
+G:\RammyCube\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+G:\RammyCube\BL\obj\Debug\BL.ccCard.resources
+G:\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+G:\RammyCube\BL\obj\Debug\BL.ucGame.resources
+G:\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+G:\RammyCube\BL\obj\Debug\BL.csproj.GenerateResource.Cache
+G:\RammyCube\BL\obj\Debug\BL.dll
+G:\RammyCube\BL\obj\Debug\BL.pdb
+F:\RammyCube\BL\bin\Debug\BL.dll
+F:\RammyCube\BL\bin\Debug\BL.pdb
+F:\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\RammyCube\BL\obj\Debug\BL.ccCard.resources
+F:\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\RammyCube\BL\obj\Debug\BL.ucGame.resources
+F:\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\RammyCube\BL\obj\Debug\BL.dll
+F:\RammyCube\BL\obj\Debug\BL.pdb
+C:\RammyCube\BL\bin\Debug\BL.dll
+C:\RammyCube\BL\bin\Debug\BL.pdb
+C:\RammyCube\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\RammyCube\BL\obj\Debug\BL.ccCard.resources
+C:\RammyCube\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\RammyCube\BL\obj\Debug\BL.ucGame.resources
+C:\RammyCube\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\RammyCube\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\RammyCube\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\RammyCube\BL\obj\Debug\BL.dll
+C:\RammyCube\BL\obj\Debug\BL.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\bin\Debug\BL.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\bin\Debug\BL.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\BL.ccCard.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\RammyCube.Properties.Resources.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\BL.ucGame.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\BL.ucPlayerBoard.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\BL.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\BL\obj\Debug\BL.pdb
+F:\RammyCube פרויקט סופי למסירה\BL\bin\Debug\BL.dll
+F:\RammyCube פרויקט סופי למסירה\BL\bin\Debug\BL.pdb
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\ResolveAssemblyReference.cache
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\BL.ccCard.resources
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\RammyCube.Properties.Resources.resources
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\BL.ucGame.resources
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\BL.ucPlayerBoard.resources
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\GenerateResource.read.1.tlog
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\GenerateResource.write.1.tlog
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\BL.dll
+F:\RammyCube פרויקט סופי למסירה\BL\obj\Debug\BL.pdb

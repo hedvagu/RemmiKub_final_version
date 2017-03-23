@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{05C9965E-3517-4DBE-B48C-6A2D5D8C523B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RammyCube</RootNamespace>
+    <AssemblyName>BL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ccCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ccCard.designer.cs">
+      <DependentUpon>ccCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerPlayer.cs" />
+    <Compile Include="Enums.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ucGame.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGame.designer.cs">
+      <DependentUpon>ucGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPlayerBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPlayerBoard.Designer.cs">
+      <DependentUpon>ucPlayerBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ccCard.resx">
+      <DependentUpon>ccCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGame.resx">
+      <DependentUpon>ucGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPlayerBoard.resx">
+      <DependentUpon>ucPlayerBoard.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pictures\40 60 copy.jpg" />
+    <Content Include="pictures\60 90 copy.jpg" />
+    <Content Include="pictures\Board.jpg" />
+    <Content Include="pictures\FWellcomeBG.jpg" />
+    <None Include="Resources\Boo.wav" />
+    <None Include="Resources\Speech Off.wav" />
+    <None Include="pictures\JBlue.jpg" />
+    <None Include="pictures\JGreen.jpg" />
+    <None Include="pictures\JRed.jpg" />
+    <None Include="pictures\JYellow.jpg" />
+    <Content Include="pictures\KlaliBG.jpg" />
+    <SplashScreen Include="pictures\FGameBG.jpg" />
+    <Content Include="pictures\MainBoard.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

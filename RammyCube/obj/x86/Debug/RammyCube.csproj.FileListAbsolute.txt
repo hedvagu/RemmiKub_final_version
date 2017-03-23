@@ -1,0 +1,563 @@
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form1.resources
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form2.resources
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form2.he-IL.resources
+C:\Users\arye\Desktop\רותי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+F:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+F:\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+F:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form1.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form2.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Form2.he-IL.resources
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\תיקיה חדשה (4)\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+E:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+E:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+E:\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+E:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+E:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+E:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Documents and Settings\a\My Documents\עבודה\פרוייקטים\RammyCube\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+D:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+D:\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+D:\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+D:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+D:\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\גיבוי\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+F:\גיבוי\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+F:\גיבוי\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\גיבוי\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+F:\גיבוי\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\גיבוי\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\RammyCube\RammyCube\bin\Debug\Dal.pdb
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\גיבוי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\BL.dll
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\Dal.dll
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\BL.pdb
+F:\סופי סופי\RammyCube\RammyCube\bin\Debug\Dal.pdb
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\a\שולחן העבודה\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\BL.dll
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\Dal.dll
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\BL.pdb
+F:\סופי סופי\מורה\RammyCube\RammyCube\bin\Debug\Dal.pdb
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\מורה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+F:\סופי סופי\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\BL.dll
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\Dal.dll
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\BL.pdb
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\bin\Debug\Dal.pdb
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+E:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+E:\סופי סופי\31.5.11\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה - עותק מותאם למחשב\removable\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+T:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+T:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\arye\Desktop\להרצה כמו רשת\פרויקט סופי גמור להגשה\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tzipi\Desktop\New folder\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\הגשה סופית\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\הגשה סופית\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+E:\הגשה סופית\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+E:\הגשה סופית\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+G:\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+G:\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+G:\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+G:\RammyCube\RammyCube\bin\Debug\BL.dll
+G:\RammyCube\RammyCube\bin\Debug\Dal.dll
+G:\RammyCube\RammyCube\bin\Debug\BL.pdb
+G:\RammyCube\RammyCube\bin\Debug\Dal.pdb
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.csprojResolveAssemblyReference.cache
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+G:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.csproj.GenerateResource.Cache
+G:\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\RammyCube\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\RammyCube\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\RammyCube\RammyCube\bin\Debug\RammyCube.exe
+C:\RammyCube\RammyCube\bin\Debug\RammyCube.pdb
+C:\RammyCube\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\RammyCube\RammyCube\bin\Debug\BL.dll
+C:\RammyCube\RammyCube\bin\Debug\Dal.dll
+C:\RammyCube\RammyCube\bin\Debug\BL.pdb
+C:\RammyCube\RammyCube\bin\Debug\Dal.pdb
+C:\RammyCube\RammyCube\obj\x86\Debug\RammyCube.csproj.ResolveComReference.cache
+C:\RammyCube\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+C:\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.csproj.ResolveComReference.cache
+C:\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.csproj.ResolveComReference.cache
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.exe
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\RammyCube.exe
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\RammyCube.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\BL.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\Dal.dll
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\BL.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\bin\Debug\Dal.pdb
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tzvi\Desktop\RammyCube פרויקט סופי\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.csproj.ResolveComReference.cache
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.exe
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.pdb
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\RammyCube.exe
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\RammyCube.pdb
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\he-IL\RammyCube.resources.dll
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\BL.dll
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\Dal.dll
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\BL.pdb
+F:\RammyCube פרויקט סופי למסירה\RammyCube\bin\Debug\Dal.pdb
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.AboutBox1.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormAttributes.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormGame.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormHelp.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormOpen.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormSaveGame.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormWellcome.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.MDIParent1.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.Properties.Resources.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\RammyCube.FormGame.he-IL.resources
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RammyCube פרויקט סופי למסירה\RammyCube\obj\x86\Debug\he-IL\RammyCube.resources.dll
